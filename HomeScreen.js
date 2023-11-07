@@ -1,12 +1,12 @@
 import React from 'react';
-import { View, Text, StyleSheet, Button } from 'react-native';
+import { StyleSheet,} from 'react-native';
 import Home from './Screens/Home';
 
 const HomeScreen = () => {
     return (
-        <>
-            <Home />
-        </>
+    <>
+        <Home />
+    </>
     );
 }
 
